@@ -11,12 +11,10 @@ public class main {
 		cuadrilatero c1;
 		float numero1;
 		float numero2;
+		String nombre = "Noe";
+		String nombre_C = "Cesar";
 
-		// AQUÍ ESCRIBIO DE NUEVO NOE
-		//Hola Noe
-		//
 
-		 // noa noa
 		numero1 = Float.parseFloat(JOptionPane.showInputDialog("Digite el lado 1"));
 		numero2 = Float.parseFloat(JOptionPane.showInputDialog("Digite el lado 2"));
 
