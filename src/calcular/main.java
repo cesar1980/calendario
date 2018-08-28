@@ -7,6 +7,7 @@ public class main {
 	
 	public static void main(String[] args) {
 		
+		// AQUÍ ESCRIBIO NOE
 		cuadrilatero c1;
 		float numero1;
 		float numero2;
