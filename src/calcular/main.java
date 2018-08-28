@@ -11,7 +11,8 @@ public class main {
 		cuadrilatero c1;
 		float numero1;
 		float numero2;
-		
+		//Hola Noe
+		//
 		numero1 = Float.parseFloat(JOptionPane.showInputDialog("Digite el lado 1"));
 		numero2 = Float.parseFloat(JOptionPane.showInputDialog("Digite el lado 2"));
 
