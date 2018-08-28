@@ -12,6 +12,7 @@ public class main {
 		float numero1;
 		float numero2;
 		
+		// AQUÍ ESCRIBIO DE NUEVO NOE
 		numero1 = Float.parseFloat(JOptionPane.showInputDialog("Digite el lado 1"));
 		numero2 = Float.parseFloat(JOptionPane.showInputDialog("Digite el lado 2"));
 
