@@ -11,6 +11,7 @@ public class main {
 		cuadrilatero c1;
 		float numero1;
 		float numero2;
+		String nombre = "Noe";
 
 		// AQUÍ ESCRIBIO DE NUEVO NOE
 		//Hola Noe
